@@ -12,14 +12,14 @@ const { version } = require("./package.json")
 
 
 //======= Change settings =======\\
-global.owner = "2347036214381"
-global.botname = "αrch md"
-global.ownername = ""
+global.owner = "923100919320"
+global.botname = "IB AFRIDI"
+global.ownername = "Broken 017"
 global.simbol = "♘"
 global.typeMenu = 'v1' //don't change 
 global.anticall = false // set true to turn anticall always on
 global.prefix = '.' // your desired prefix symbol only
-global.channel = ''
+global.channel = 'https://chat.whatsapp.com/HB4kP0irDyP280SZESk0u5'
 global.timezone = 'Africa/Lagos'
 global.author = 'Ednut'
 global.packname = 'Arch Md ²⁵'
@@ -30,8 +30,8 @@ global.startup = true
 
 // Settings Image Url
 global.image = {
-menu: "https://files.catbox.moe/bj888g.jpg", 
-reply: "https://files.catbox.moe/9nrqqg.jpg", 
+menu: "https://files.catbox.moe/2p0mnq.jpg", 
+reply: "https://files.catbox.moe/1aohfa.jpeg", 
 }
 
 // Message Command 
