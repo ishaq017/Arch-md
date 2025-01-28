@@ -1,8 +1,8 @@
 {                                                                     
   "name": "Arch Md",                                           
   "description": "Nodejs wa bot",                                       
-  "repository": "https://github.com/Ednut001/Arch-Md",                                                                     
-  "logo": "https://files.catbox.moe/51vbuh.jpg",           
+  "repository": "https://github.com/ishaq017/Arch-md.git",                                                                     
+  "logo": "https://files.catbox.moe/2p0mnq.jpg",           
   "keywords": ["nodejs", "pair", "multi device"],                                               
   "buildpacks": [                                                     
     {                                                                   
